@@ -1,7 +1,5 @@
 # Игра в рамках Хакатона «IT-Песочница» для ЧУЗ «Елизаветинский детский хоспис».
-![Uploading image.png…]()
 
-![not images!!!](foto_for_readme/logo.jpg)
 
 <details>
 <summary>
